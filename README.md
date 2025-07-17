@@ -1,9 +1,18 @@
 # Simple Linear Regression
 
-A simple regression model to find the relationship between the students CGPA column and their placements in LPA column
+ Simple Linear Regression example to find the relationship between students' CGPA and their Placements in LPA using the equation:
 
-# Equation of line y = mx + b
+# y = mx + b
+Where:
 
-m = slope , b = intercept 
+𝑦
+y is the LPA (placement salary),
 
-y = m(df['CGPA']) + b
+𝑥
+x is the CGPA,
+
+𝑚
+m is the slope of the line (how much LPA changes with CGPA),
+
+𝑏
+b is the intercept (the LPA when CGPA is 0).
