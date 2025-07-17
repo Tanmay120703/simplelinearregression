@@ -16,3 +16,5 @@ m is the slope of the line (how much LPA changes with CGPA),
 
 𝑏
 b is the intercept (the LPA when CGPA is 0).
+
+dataset used : cgpa_lpa_data.csv
