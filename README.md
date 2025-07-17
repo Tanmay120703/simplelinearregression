@@ -1,1 +1,1 @@
-# simplelinearregression
+# Simple Linear Regression
